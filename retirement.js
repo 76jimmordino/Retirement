@@ -12,7 +12,7 @@ if (age==retirementAge){
 }
     //first if your age is older than the retirementAge
 if (age<retirementAge){
-  console.log("Here is another check");
+  console.log("Come back later you whippersnapper");
 }
     //second if your age is equal to the retirementAge
 
